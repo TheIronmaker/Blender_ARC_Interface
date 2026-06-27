@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "arc_interface"
+version = "1.0.0"
+name = "ARC Interface"
+tagline = "Engineering inspired holographic interface"
+maintainer = "The Iron Maker"
+
+type = "theme"
+tags = ["Dark", "Inspired By", "Colorful"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
