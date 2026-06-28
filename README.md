@@ -14,6 +14,8 @@ ARC Interface replaces Blender’s default theme colors with a unified blue-tint
 
 The goal is to refine how Blender feels to use by reducing visual noise, improving focus, and creating a more immersive workspace.
 
+This is an official [Blender Extension](https://extensions.blender.org/themes/arc-interface/)
+
 ---
 
 ## Features
